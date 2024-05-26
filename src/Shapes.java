@@ -93,4 +93,4 @@ public class Shapes {
         } while(n!=0);
         sc.close();
     }
-}
+} 
