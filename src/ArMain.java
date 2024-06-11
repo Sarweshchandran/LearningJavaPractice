@@ -41,8 +41,8 @@ class Array2 extends Array3{
 public class ArMain extends Array2{
 
     public void ArgArr(){
-        int avg;
-        avg = Sum/Arr.length;
+        float avg;
+        avg = (float)Sum/Arr.length;
         System.out.println("The of the Array elements is: "+ avg);
     }
    
